@@ -14,10 +14,16 @@
 > * 課程進行方式說明，安裝conda環境
 ### Week-02
 > * python基礎01(int float str bool)
-> * [練習1](https://github.com/Robbish1106/PL/blob/main/test1.py)
-> * [練習2](https://github.com/Robbish1106/PL/blob/main/test2.py)
-> * [練習3](https://github.com/Robbish1106/PL/blob/main/test3.py)
+> * [練習1](https://github.com/Robbish1106/PL/blob/main/PL/test1-1.py)
+> * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test1-2.py)
+> * [練習3](https://github.com/Robbish1106/PL/blob/main/PL/test1-3.py)
 ### Week-03
+> * python基礎02(list相關應用)
+> * [練習1](https://github.com/Robbish1106/PL/blob/main/PL/test2-1.py)
+> * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test2-2.py)
+> * [練習3](https://github.com/Robbish1106/PL/blob/main/PL/test2-3.py)
+> * [練習4](https://github.com/Robbish1106/PL/blob/main/PL/test2-4.py)
+> * 作業一 (還沒搞定)
 ### Week-04
 ### Week-05
 ### Week-06
