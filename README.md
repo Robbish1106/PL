@@ -18,12 +18,15 @@
 > * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test1-2.py)
 > * [練習3](https://github.com/Robbish1106/PL/blob/main/PL/test1-3.py)
 ### Week-03
-> * python基礎02(list相關應用)
+#### python基礎02(list相關應用)
 > * [練習1](https://github.com/Robbish1106/PL/blob/main/PL/test2-1.py)
 > * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test2-2.py)
 > * [練習3](https://github.com/Robbish1106/PL/blob/main/PL/test2-3.py)
 > * [練習4](https://github.com/Robbish1106/PL/blob/main/PL/test2-4.py)
+####
+> * [作業1](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
 ### Week-04 
+#### python基礎03(dict相關應用)
 > * [練習1](https://github.com/Robbish1106/PL/blob/main/PL/test3-1.py)
 > * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test3-2.py)
 > * [練習3]()
