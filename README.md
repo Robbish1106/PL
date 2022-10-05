@@ -23,7 +23,7 @@
 > * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test2-2.py)
 > * [練習3](https://github.com/Robbish1106/PL/blob/main/PL/test2-3.py)
 > * [練習4](https://github.com/Robbish1106/PL/blob/main/PL/test2-4.py)
-> * 作業一 (還沒搞定)
+> * [作業一](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
 ### Week-04 
 > * [練習1](https://github.com/Robbish1106/PL/blob/main/PL/test3-1.py)
 > * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test3-2.py)
@@ -44,5 +44,6 @@
 ### Week-18
 ## 課程筆記區
 ## 作業連結區
-> * [HW1](https://github.com/Robbish1106/PL/blob/main/hw1/Homework1%20(1).ipynb)
+> * [HW1_1 股價](https://github.com/Robbish1106/PL/blob/main/hw1/Homework1%20(1).ipynb)
+> * [HW1_2 銀行](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
 ## 專題連結區
