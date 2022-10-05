@@ -44,4 +44,5 @@
 ### Week-18
 ## 課程筆記區
 ## 作業連結區
+> * [HW1](https://github.com/Robbish1106/PL/blob/main/hw1/Homework1%20(1).ipynb)
 ## 專題連結區
