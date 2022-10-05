@@ -13,7 +13,7 @@
 ### Week-01
 > * 課程進行方式說明，安裝conda環境
 ### Week-02
-> * python基礎01(int float str bool)
+#### python基礎01(int float str bool)
 > * [練習1](https://github.com/Robbish1106/PL/blob/main/PL/test1-1.py)
 > * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test1-2.py)
 > * [練習3](https://github.com/Robbish1106/PL/blob/main/PL/test1-3.py)
