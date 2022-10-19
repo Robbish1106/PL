@@ -29,9 +29,12 @@
 #### python基礎03(dict相關應用)
 > * [練習1](https://github.com/Robbish1106/PL/blob/main/PL/test3-1.py)
 > * [練習2](https://github.com/Robbish1106/PL/blob/main/PL/test3-2.py)
-> * [練習3]()
+> * 練習3
 ### Week-05
+> * 
 ### Week-06
+#### python作業二
+> * [HW2](https://github.com/Robbish1106/PL/blob/main/hw2/HW2.ipynb)
 ### Week-07
 ### Week-08
 ### Week-09
@@ -48,4 +51,5 @@
 ## 作業連結區
 > * [HW1_1 股價](https://github.com/Robbish1106/PL/blob/main/hw1/Homework1%20(1).ipynb)
 > * [HW1_2 銀行](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
+> * [HW2 LOL下路英雄資料簡表](https://github.com/Robbish1106/PL/blob/main/hw2/HW2.ipynb)
 ## 專題連結區
