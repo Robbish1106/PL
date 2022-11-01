@@ -10,3 +10,5 @@
 
 > * [csv](https://github.com/Robbish1106/PL/blob/main/hw3/CHAT.csv)
 > * [json](https://github.com/Robbish1106/PL/blob/main/hw3/CHAT.json)
+
+![image](https://github.com/Robbish1106/PL/blob/main/hw3/tenor.gif)
