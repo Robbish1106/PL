@@ -8,7 +8,7 @@
 > * [111/9 csv](https://github.com/Robbish1106/PL/blob/main/hw1/STOCK_DAY_2330_202209.csv)
 > * [110/9 csv](https://github.com/Robbish1106/PL/blob/main/hw1/STOCK_DAY_2330_202109.csv)
 
-## 那些台灣的銀行有國保費相關服務
+## 哪些台灣的銀行有國保費相關服務
 ### 其實我不知道什麼是國保費，但沒差。
 #### -----------------------------
 #### [jupyter notebook](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
