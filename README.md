@@ -52,4 +52,5 @@
 > * [HW1_1 股價](https://github.com/Robbish1106/PL/blob/main/hw1/Homework1%20(1).ipynb)
 > * [HW1_2 銀行](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
 > * [HW2 LOL下路英雄資料簡表](https://github.com/Robbish1106/PL/blob/main/hw2/HW2.ipynb)
+> * [HW3_1 the爬 PTT C_Chat板](https://github.com/Robbish1106/PL/blob/main/hw3/HW3.ipynb)
 ## 專題連結區
