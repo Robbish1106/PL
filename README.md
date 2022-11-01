@@ -49,8 +49,7 @@
 ### Week-18
 ## 課程筆記區
 ## 作業連結區
-> * [HW1_1 股價](https://github.com/Robbish1106/PL/blob/main/hw1/Homework1%20(1).ipynb)
-> * [HW1_2 銀行](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
-> * [HW2 LOL下路英雄資料簡表](https://github.com/Robbish1106/PL/blob/main/hw2/HW2.ipynb)
+> * [HW1](https://github.com/Robbish1106/PL/tree/main/hw1)
+> * [HW2](https://github.com/Robbish1106/PL/tree/main/hw2)
 > * [HW3](https://github.com/Robbish1106/PL/tree/main/hw3)
 ## 專題連結區
