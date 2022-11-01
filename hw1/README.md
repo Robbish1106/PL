@@ -14,3 +14,5 @@
 #### -----------------------------
 #### [jupyter notebook](https://github.com/Robbish1106/PL/blob/main/hw1/hw1_rework.ipynb)
 > * [銀行 csv](https://github.com/Robbish1106/PL/blob/main/hw1/A17000000J-020024-sW1.csv)
+
+![image](https://github.com/Robbish1106/PL/blob/main/hw1/1665550033-3175166416-g.gif)
