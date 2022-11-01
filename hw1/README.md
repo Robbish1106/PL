@@ -3,6 +3,7 @@
 ### 今年少了去年快200塊，頭都快破掉了。
 ### 還好我不是那些整天炒短線把股票當賭馬玩的白癡。
 ### 從很久以前開始放長線，領股利其實不會虧太嚴重。
+### [2330.TW 月線](https://tw.stock.yahoo.com/quote/2330.TW/technical-analysis)
 #### -----------------------------
 #### [jupyter notebook](https://github.com/Robbish1106/PL/blob/main/hw1/Homework1%20(1).ipynb)
 > * [111/9 csv](https://github.com/Robbish1106/PL/blob/main/hw1/STOCK_DAY_2330_202209.csv)
